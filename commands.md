@@ -46,6 +46,8 @@ connect to a remote repo
 
 `git remote add origin https://github.com/Dash-D/Git_versioning_course_VIB_Gitproject.git`
 
+`git remote add origin git@github.com/Dash-D/Git_versioning_course_VIB_Gitproject.git`
+
 
 sync commands
 
