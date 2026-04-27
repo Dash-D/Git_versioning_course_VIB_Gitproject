@@ -9,3 +9,5 @@
 ## Conceptual area
 
 1. Development area: the project folder.
+
+2. 
