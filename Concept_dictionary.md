@@ -18,7 +18,7 @@
 
 - ssh key: why it is important? It's a way to securely connect to a remote computer/server.
 
-`ssh-keygen -t ed25519 -C "dan.dascecno@gmail.com"` *VIB password*
+`ssh-keygen -t ed25519 -C "dan.dascenco@gmail.com"` 
 
 - how to create a repo on Github: add the SSH key then open a remote connection ("bridge").
 
