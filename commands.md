@@ -17,3 +17,11 @@ adding to staging area
 adding to local repository
 
 `git commit -m "Your commit message"`
+
+see history
+
+`git log`
+
+`git log -n`
+
+`git log --abbrev-commit`
