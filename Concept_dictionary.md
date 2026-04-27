@@ -23,3 +23,5 @@
 - how to create a repo on Github: add the SSH key then open a remote connection ("bridge").
 
 `git remote add origin https://github.com/Dash-D/Git_versioning_course_VIB_Gitproject.git`
+
+- I should always sync the changes. Git Push will send changes to my collaborators and to my backup. Git Pull will sync my local repo with the remote one, allowing to incorporate changes by collaborators or made on another machine.
