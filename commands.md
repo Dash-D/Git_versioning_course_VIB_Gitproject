@@ -2,6 +2,10 @@
 
 ## Basic routine
 
+completing file names
+
+`TAB`
+
 checking if files were commited
 
 `git status`
