@@ -1,8 +1,10 @@
+# My first Git Project
+
 This is a project template I created during the course "Versioninh Code in Github" in Gent in April 2026.
 
 In this course, we learned about how to use Github effectively, including integration with VSC or RStudio.
 
-# Files
+## Files
 
 - commands.md: a cheatsheet of git commands.
 
