@@ -10,6 +10,16 @@
 
 1. Development area: the project folder.
 
-2. 
+2. Staging area: organize and add files before committing. 
 
 3. Local Repo: .git file where git software is managing all the versions.
+
+## From local to remote
+
+- ssh key: why it is important? It's a way to securely connect to a remote computer/server.
+
+`ssh-keygen -t ed25519 -C "dan.dascecno@gmail.com"` *VIB password*
+
+- how to create a repo on Github: add the SSH key then open a remote connection ("bridge").
+
+`git remote add origin https://github.com/Dash-D/Git_versioning_course_VIB_Gitproject.git`
