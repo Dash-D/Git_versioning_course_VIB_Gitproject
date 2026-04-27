@@ -11,3 +11,5 @@
 1. Development area: the project folder.
 
 2. 
+
+3. Local Repo: .git file where git software is managing all the versions.
