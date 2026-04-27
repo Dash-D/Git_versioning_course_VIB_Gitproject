@@ -6,6 +6,10 @@ completing file names
 
 `TAB`
 
+help
+
+`--help` after any command
+
 checking if files were commited
 
 `git status`
@@ -25,3 +29,13 @@ see history
 `git log -n`
 
 `git log --abbrev-commit`
+
+`git log --oneline`
+
+`git log --name-only`
+
+compare differences
+
+`git diff <old> <new>` *order matters*
+
+`git show <old> <new>`
