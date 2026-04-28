@@ -6,6 +6,16 @@
 
 - github: A navigator. A backup of your timeline/git repository.
 
+## Meaningful message
+
+- Why?
+
+- How?
+
+- Effects.
+
+- Limitations.
+
 ## Conceptual area
 
 1. Development area: the project folder.
@@ -13,6 +23,12 @@
 2. Staging area: organize and add files before committing. 
 
 3. Local Repo: .git file where git software is managing all the versions.
+
+## Files to always include
+
+- README.md: a description of the project, files, installations, etc
+
+- .gitignore: list of files to ignore. They must not have been pushed.
 
 ## From local to remote
 
@@ -25,3 +41,5 @@
 `git remote add origin https://github.com/Dash-D/Git_versioning_course_VIB_Gitproject.git`
 
 - I should always sync the changes. Git Push will send changes to my collaborators and to my backup. Git Pull will sync my local repo with the remote one, allowing to incorporate changes by collaborators or made on another machine.
+
+- HEAD: most recent commit. Can be moved in case of revert or reset.
