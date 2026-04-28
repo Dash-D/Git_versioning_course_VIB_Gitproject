@@ -71,3 +71,9 @@ Delete the bridge (to switch from https to ssh for instance)
 `git remote` *lists the name, usually "origin"*
 
 `git remote remove <name>`
+
+Branching
+
+`git branch <name>`
+
+`git checkout <branch_name>`

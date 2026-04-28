@@ -43,3 +43,9 @@
 - I should always sync the changes. Git Push will send changes to my collaborators and to my backup. Git Pull will sync my local repo with the remote one, allowing to incorporate changes by collaborators or made on another machine.
 
 - HEAD: most recent commit. Can be moved in case of revert or reset.
+
+## Branch
+
+- Give it a new_name, make it meaningful.
+
+- Alternative history of commits.
