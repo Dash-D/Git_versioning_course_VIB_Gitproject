@@ -49,3 +49,5 @@
 - Give it a new_name, make it meaningful.
 
 - Alternative history of commits.
+
+- Here I'm testing how Github deals with branches pushed without "stumps'.
