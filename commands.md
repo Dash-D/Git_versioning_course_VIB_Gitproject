@@ -79,3 +79,5 @@ Branching
 `git checkout <branch_name>` to select which branch I work on
 
 `git branch --list` to get a list of all branches
+
+`git branch -v -v -a` easy wait to check the status of all branches.
