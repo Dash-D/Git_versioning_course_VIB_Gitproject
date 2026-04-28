@@ -11,3 +11,7 @@ In this course, we learned about how to use Github effectively, including integr
 - Concept_dictionary.md: A glossary of useful terms.
 
 - CA1-inputs.png: A random image to be ignored.
+
+## Branching
+
+- A branch makes it possible to work together, as collaborators on a project in a parallel universe.
