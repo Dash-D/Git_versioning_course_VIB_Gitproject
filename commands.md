@@ -74,6 +74,8 @@ Delete the bridge (to switch from https to ssh for instance)
 
 Branching
 
-`git branch <name>`
+`git branch <name>` creates anew branch
 
-`git checkout <branch_name>`
+`git checkout <branch_name>` to select which branch I work on
+
+`git branch --list` to get a list of all branches
