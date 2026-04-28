@@ -49,3 +49,5 @@
 - Give it a new_name, make it meaningful.
 
 - Alternative history of commits.
+
+- In the project folder, the files present correspond to the checked out branch, this was defined as the mirror effect.
