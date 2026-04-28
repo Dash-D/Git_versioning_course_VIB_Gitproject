@@ -15,3 +15,5 @@ In this course, we learned about how to use Github effectively, including integr
 ## Branching
 
 - A branch makes it possible to work together, as collaborators on a project in a parallel universe.
+- invite collaborator(s) in remote github
+- clone the project of the collaborator in a frech folder (for example desktop, not containing any .git file yet)
