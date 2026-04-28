@@ -46,6 +46,8 @@
 
 ## Branch
 
+- Useful for collaborations, testing, experimentations, etc.
+
 - Give it a new_name, make it meaningful.
 
-- Alternative history of commits.
+- Alternative history of commits in a parallel workflow.
