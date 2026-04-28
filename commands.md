@@ -77,3 +77,7 @@ Branching
 `git branch <name>`
 
 `git checkout <branch_name>`
+
+`git push --set-upstream origin <branch_name>` in order to push properly
+
+`git checkout -b <branch_name>` creates a branch and checks out at the same time
